@@ -1,0 +1,9 @@
+#NOTE: The Mysql username or password can NOT contain spaces!
+mysqlhost: localhost
+mysqldatabase:sampleadvertdatabase
+mysqltable: sampletable
+mysqluser: sampleusernamehere
+mysqlpassword: samplepassword
+
+#Please put the number of SECONDS (ex "delay: 60" is 1 minute)
+delay: 60
